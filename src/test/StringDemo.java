@@ -25,3 +25,4 @@ public class StringDemo {
     private  static void  func(Dog dog){dog.setName("BC");}
 
 }
+
